@@ -31,7 +31,7 @@ ChromeDriverManager 是一個外部套件，通常搭配上面的 selenium 使�
 ## 示範
 為防止程式無預期掛點，放一些影片來證明這個程式真的可執行。  
 1. https://www.youtube.com/watch?v=MasW-WClehs
-2. https://www.youtube.com/watch?v=lrYj-gyzvXg&ab_channel=%E9%99%B3%E5%A5%95%E8%BB%92
+2. https://www.youtube.com/watch?v=lrYj-gyzvXg
 ## 備註
 在學會git後才將檔案上傳上來。  
 
