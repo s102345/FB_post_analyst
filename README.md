@@ -15,8 +15,8 @@ Gdown 這個套件可以從 google drive 下載模型檔。這個套件只是用
 Tensorflow 是一個開源軟體庫，用於各種感知和語言理解任務的機器學習。  在這個專題中不會實際應用，僅用於下載和使用模型。使用前須先透過 pip 下載。
 ### Ckiptagger
 Ckiptagger 是中研院開發的中文處理工具，他支援中文斷句、詞性分類、以及提供使用者自訂詞典功能。使用前要先透過 gdown 套件和一段程式碼下載模型，下載完就可以將程式碼刪除：
-> from ckiptagger import data_utils
-> data_utils.download_data_gdown("./") #引號中的路徑為模型下載路徑  
+> from ckiptagger import data_utils  
+> data_utils.download_data_gdown("./") #引號中的路徑為模型下載路徑   
 要使用斷句功能前，必須先引用該函式庫底下的兩個 class：
 > from ckiptagger import WS, POS
 ### Bs4
